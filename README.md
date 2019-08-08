@@ -1,2 +1,0 @@
-# ArrayBag
-ArrayBag Project C++
